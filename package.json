@@ -1,0 +1,21 @@
+{
+  "name": "web_scraper",
+  "version": "0.0.0",
+  "description": "web_scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lindsayhenwood/web_scraper.git"
+  },
+  "author": "Lindsay Henwood",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/lindsayhenwood/web_scraper/issues"
+  },
+  "dependencies": {
+    "request": "~2.31.0"
+  }
+}
